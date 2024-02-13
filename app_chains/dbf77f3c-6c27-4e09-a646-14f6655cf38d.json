@@ -1,0 +1,8 @@
+{
+  "name": "persia",
+  "logo": "https://r.resimlink.com/MbN8FSc4E.webp",
+  "rpc_url": "http://185.209.223.210:9944",
+  "explorer_url": "http://185.209.223.210:4000",
+  "metrics_endpoint": "http://185.209.223.210:9615/metrics",
+  "id": "dbf77f3c-6c27-4e09-a646-14f6655cf38d"
+}
